@@ -1,6 +1,8 @@
 #include "main.h"
 #include "lemlib/api.hpp" // IWYU pragma: keep
 
+// update the fucking changes: https://www.youtube.com/watch?v=9cwKcDtj6eo
+
 // controller
 pros::Controller controller(pros::E_CONTROLLER_MASTER);
 
